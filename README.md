@@ -49,6 +49,3 @@ You can install the required libraries using pip:
 
 ```bash
 pip install numpy pandas tensorflow keras scikit-learn torch torchvision
-
-
-Feel free to customize this template further to fit your project's specific needs.
